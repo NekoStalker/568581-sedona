@@ -1,7 +1,7 @@
-# Личный проект «Седона»
+# Личный проект «Техномарт»
 
 * Студент: [Dmitry Chekunov](https://up.htmlacademy.ru/htmlcss/20/user/568581).
-* Наставник: `Неизвестно`.
+* Наставник: [Александр Собакарь](https://htmlacademy.ru/profile/id128451).
 
 ---
 
@@ -18,19 +18,19 @@ _`.editorconfig`, `.gitattributes`, `.gitignore`, `Contributing.md`, `Readme.md`
 
 #### 2. Создайте форк
 
-[Откройте мастер-репозиторий](https://github.com/htmlacademy-htmlcss/568581-sedona) и нажмите кнопку «Fork» в правом верхнем углу. Репозиторий из Академии скопируется в ваш аккаунт.
+[Откройте мастер-репозиторий](https://github.com/htmlacademy-htmlcss/568581-technomart) и нажмите кнопку «Fork» в правом верхнем углу. Репозиторий из Академии скопируется в ваш аккаунт.
 
-<img width="769" alt="" src="https://user-images.githubusercontent.com/10909/29037949-67a635d6-7bae-11e7-9f2f-1a48fde231b9.jpg">
+<img width="769" alt="" src="https://user-images.githubusercontent.com/10909/29037784-cf833fec-7bad-11e7-8eec-dfe32aac11b1.jpg">
 
 Получится вот так:
 
-<img width="769" alt="" src="https://user-images.githubusercontent.com/10909/29037953-6a8a7384-7bae-11e7-83ac-59603b1d696c.jpg">
+<img width="769" alt="" src="https://user-images.githubusercontent.com/10909/29037785-d1363f60-7bad-11e7-99da-f02a2f996a01.jpg">
 
 #### 3. Клонируйте репозиторий на свой компьютер
 
 Будьте внимательны: нужно клонировать свой репозиторий (форк), а не репозиторий Академии. Нажмите кнопку «Clone or download», а затем «Open in Desktop», чтобы клонировать репозиторий через программу [GitHub Desktop](https://desktop.github.com):
 
-<img width="769" alt="" src="https://user-images.githubusercontent.com/10909/29037955-6c20c16c-7bae-11e7-9e1a-c52010042976.jpg">
+<img width="769" alt="" src="https://user-images.githubusercontent.com/10909/29037788-d26a3558-7bad-11e7-9d08-2f9f0f6e467a.jpg">
 
 Программа клонирует репозиторий на ваш компьютер и подготовит всё необходимое для старта работы.
 
